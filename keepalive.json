@@ -1,12 +1,12 @@
 {
-    "version": "1.4.5",
+    "version": "1.4.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stigoleg/keep-alive/releases/download/v1.4.5/keep-alive_Windows_x86_64.zip",
+            "url": "https://github.com/stigoleg/keep-alive/releases/download/v1.4.7/keep-alive_Windows_x86_64.zip",
             "bin": [
                 "keepalive.exe"
             ],
-            "hash": "853547a721d439cecb122d92a1bca24bc33f79f623eae1af2c21e388d9482628"
+            "hash": "f0a1ef1b3f17572d5015f1af14490125860635172adf5a917f1a4daa3fc4b192"
         }
     },
     "homepage": "https://github.com/stigoleg/keep-alive",
