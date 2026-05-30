@@ -6,7 +6,7 @@
             "bin": [
                 "keepalive.exe"
             ],
-            "hash": "0cba26b4451eee231d12f8aee1c87e723176b9d28e201ae8f4b6319ba8c59e4c"
+            "hash": "16d2450de0f2fe3e3ee240bf9d537261484a9daf178ee711523863d1bc56f74c"
         }
     },
     "homepage": "https://github.com/stigoleg/keep-alive",
