@@ -1,15 +1,24 @@
 {
-    "version": "1.5.3",
+    "version": "2.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Windows_x86_64.zip",
+            "url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_amd64.zip",
             "bin": [
+                "keepalive.exe",
+                "keepalivew.exe"
+            ],
+            "hash": "ed11d1c34a34326e6b3e18a8cb283a96dc2c7379a7b30f0617a205f3caa5c2cc"
+        },
+        "arm64": {
+            "url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_arm64.zip",
+            "bin": [
+                "keepalivew.exe",
                 "keepalive.exe"
             ],
-            "hash": "16d2450de0f2fe3e3ee240bf9d537261484a9daf178ee711523863d1bc56f74c"
+            "hash": "e04f7a50a6ccd352747e6ffdf73fba4889f168415e72724d85a9f444aa770b94"
         }
     },
     "homepage": "https://github.com/stigoleg/keep-alive",
     "license": "MIT",
-    "description": "A lightweight, cross-platform utility to prevent system sleep"
+    "description": "Keeps the computer awake and Teams/Slack Active"
 }
